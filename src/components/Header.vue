@@ -17,11 +17,10 @@
 
             <div class="text-center  mt-8">
                 <h1 class="text-4xl md:text-5xl text-black font-semibold font-headline">
-                    Super Computer
-                    Kathmandu University
+                    Super Computer At Kathmandu University
                 </h1>
                 <p class="text-xl md:text-2xl leading-normal text-grey-darkest max-w-lg mx-auto py-6 md:py-8">
-                    
+
                 </p>
             </div>
         </div>
