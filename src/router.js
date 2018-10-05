@@ -22,6 +22,12 @@ export default new Router({
       name: "funding",
       component: () =>
         import(/* webpackChunkName: "funding" */ "@/views/Funding.vue")
+    },
+    {
+      path: "/contact",
+      name: "contact",
+      component: () =>
+        import(/* webpackChunkName: "funding" */ "@/views/Contact.vue")
     }
   ]
 });

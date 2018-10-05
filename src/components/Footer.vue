@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-black py-8">
+    <section class="bg-black py-8 border-t-4 border-blue">
         <div class="container px-4 text-center max-w-lg mx-auto">
             <ul class="list-reset flex justify-center flex-wrap">
                 <li class="m-3">
