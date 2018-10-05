@@ -2,16 +2,16 @@
     <div>
         <div class="bg-grey-lighter">
             <div class="container mx-auto px-4 py-4">
-                <h1>Contact</h1>
+                <h1 class="font-light">Contact</h1>
                 <p> You can contact us directly using following method:</p>
                 <div class="flex flex-wrap-reverse lg:flex-row justify-center lg:my-4 py-6 pb-16">
                     <div class="w-full lg:w-1/4 text-left mx-8 pt-10">
-                        <h3 class="text-indigo-darker font-bold text-3xl tracking-tight">1. Sign up online</h3> <p class="leading-tight py-10 tracking-wide">Simply Email Us at <code>kuhpc@ku.edu.np</code></p>
+                        <h3 class="font-light text-indigo-darker font-bold text-3xl tracking-tight">1. Sign up online</h3> <p class="leading-tight py-10 tracking-wide">Simply Email Us at <code>kuhpc@ku.edu.np</code></p>
                     </div>
 
-                    <div class="w-full lg:w-1/4 text-left mx-8 pt-10"><h3 class="text-indigo-darker font-bold text-3xl tracking-tight">2. Visit US</h3> <p class="leading-tight py-10 tracking-wide">Visit Us at Kathmandu University Block 10</p></div>
+                    <div class="font-light w-full lg:w-1/4 text-left mx-8 pt-10"><h3 class="text-indigo-darker font-bold text-3xl tracking-tight">2. Visit US</h3> <p class="leading-tight py-10 tracking-wide">Visit Us at Kathmandu University Block 10</p></div>
 
-                    <div class="w-full lg:w-1/4 text-left mx-8 pt-10"><h3 class="text-indigo-darker font-bold text-3xl tracking-tight">3. Mail Us</h3> <p class="leading-tight py-10 tracking-wide">You can send post mail at Kathmandu Univeristy </p></div>
+                    <div class="font-light w-full lg:w-1/4 text-left mx-8 pt-10"><h3 class="text-indigo-darker font-bold text-3xl tracking-tight">3. Mail Us</h3> <p class="leading-tight py-10 tracking-wide">You can send post mail at Kathmandu Univeristy </p></div>
 
                 </div>
 

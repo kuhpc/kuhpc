@@ -1,10 +1,10 @@
 <template>
     <div class="bg-grey-lighter">
         <div class="container mx-auto px-4 py-4">
-            <h1>Queuing Manager</h1>
+            <h1 class="font-light">Queuing Manager</h1>
             <p class="mt-12 mb-12">We use <code>Slurm</code> from queuing</p>
 
-            <h2 class="mb-12">List of Queues</h2>
+            <h2 class="font-light mb-12">List of Queues</h2>
             <table class="mx-auto bg-grey-light border-2 border-solid border-gray-dark">
                 <col width="50%">
                 <col width="50%">
@@ -26,7 +26,7 @@
                 </tr>
             </table>
 
-            <h2 class="mt-12">Slurm Configuration Generator</h2>
+            <h2 class="font-light mt-12">Slurm Configuration Generator</h2>
             <p class="m-4">Everybody is requested to use following code generator for generating slurm configs</p>
 
             <div class="w-full bg-white rounded shadow-lg p-8 m-4 md:max-w-md md:mx-auto ">
@@ -57,7 +57,7 @@
 
             </div>
 
-            <h3 class="my-8">Generated Config</h3>
+            <h3 class="font-light my-8">Generated Config</h3>
 <pre class="bg-black text-white  py-8 px-4">
 #!/bin/bash
 #SBATCH --job-name={{ job_name }}
@@ -136,7 +136,7 @@ export default {
 }
 
 .field-label {
-  @apply .font-bold .text-lg .text-grey-darkest .mb-2;
+  @apply .text-lg .text-grey-darkest .mb-2;
 }
 
 .field-group {
