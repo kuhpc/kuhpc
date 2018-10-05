@@ -10,6 +10,8 @@
                     <img :src="image.url" :alt="image.name">
                 </slide>
             </carousel>
+
+            <p>Images Source: https://cds.cern.ch/record/2627035?ln=en</p>
         </div>
 
     </section>
