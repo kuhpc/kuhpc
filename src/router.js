@@ -28,6 +28,12 @@ export default new Router({
       name: "contact",
       component: () =>
         import(/* webpackChunkName: "funding" */ "@/views/Contact.vue")
+    },
+    {
+      path: "/software",
+      name: "software",
+      component: () =>
+        import(/* webpackChunkName: "funding" */ "@/views/Software.vue")
     }
   ]
 });
