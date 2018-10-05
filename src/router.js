@@ -15,7 +15,13 @@ export default new Router({
       path: "/about",
       name: "about",
       component: () =>
-        import(/* webpackChunkName: "about" */ "./views/About.vue")
+        import(/* webpackChunkName: "about" */ "@/views/About.vue")
+    },
+    {
+      path: "/funding",
+      name: "funding",
+      component: () =>
+        import(/* webpackChunkName: "funding" */ "@/views/Funding.vue")
     }
   ]
 });

@@ -6,6 +6,9 @@
                     KU HPC
                 </router-link>
                 <div class="block text-center sm:w-1/2 sm:text-right font-semibold">
+                    <router-link to="/funding" class="inline-block mr-8 py-6 no-underline text-grey-darkest hover:text-black">
+                        Funding
+                    </router-link>
                     <router-link to="/about" class="inline-block mr-8 py-6 no-underline text-grey-darkest hover:text-black">
                         About
                     </router-link>
