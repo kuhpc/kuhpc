@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <section class="bg-grey-lighter">
       <div class="container mx-auto px-4 text-center">
         <div class="flex flex-wrap">
@@ -40,15 +39,13 @@
         </div>
       </div>
     </section>
-
       <div class="bg-blue py-8">
           <div class="container mx-auto px-4 text-center">
               <p class="text-xl md:text-2xl max-w-lg mx-auto leading-normal text-white mb-8">
-                  From <span class="font-bold">Computation</span> to <span class="font-bold">Machine Learning</span> Supercomputer is set to accomplish the unseen horizon
+                  From <span class="font-bold">Computation</span> to <span class="font-bold">Machine Learning</span> Supercomputer is set to accomplish goal beyond horizon
               </p>
           </div>
       </div>
-
       <div class="bg-grey-lightest">
       <div class="container mx-auto px-4 pt-16 pb-12">
         <h4 class="text-center text-4xl mb-12">Applications</h4>
@@ -109,9 +106,9 @@
 </svg>
 
             </div>
-            <h3 class="text-lg font-semibold text-black mb-2">Calculation</h3>
+            <h3 class="text-lg font-semibold text-black mb-2">Science</h3>
             <p class="text-base leading-normal text-grey-darkest">
-              Using Supercomputer calculation that take ages will be completed by hours
+                HPC has revolutionised the way science is performed. Supercomputing is needed for processing sophisticated computational models able to simulate the cellular structure and functionalities of the brain
             </p>
           </div>
           <div class="w-full md:w-1/3 sm:w-1/2 px-4 mb-12">
@@ -129,9 +126,9 @@
 	s8,3.582,8,8"/>
 </svg>
             </div>
-            <h3 class="text-lg font-semibold text-black mb-2">Weather Forecasting</h3>
+            <h3 class="text-lg font-semibold text-black mb-2">Better Weather Forecasting</h3>
             <p class="text-base leading-normal text-grey-darkest">
-              Supercomputer makes weather forecasting easy
+              Supercomputer makes weather forecasting easy E.g. HPC has helped climate scientists predict the size and path of St. Jude's Day storm in October 2013 four days before it formed, helping to take preventive measures and reducing damage.
             </p>
           </div>
           <div class="w-full md:w-1/3 sm:w-1/2 px-4 mb-12">
@@ -208,18 +205,16 @@
 				c0.64-2.551,0.068-5.248-1.553-7.322c-1.613-2.065-4.096-3.277-6.724-3.277H212.847z"/>
 		</g>
 </svg>
-
             </div>
-            <h3 class="text-lg font-semibold text-black mb-2">Hydropower</h3>
+            <h3 class="text-lg font-semibold text-black mb-2">Hospital</h3>
             <p class="text-base leading-normal text-grey-darkest">
-              Various hydro power fluid calculation is hard without supercomputer.
+                Supercomputers can detect genetic changes responsible for the onset and mutation of tumours in a simple, quick and precise way, in a few hours.
             </p>
           </div>
         </div>
 
       </div>
     </div>
-
   </div>
 </template>
 
