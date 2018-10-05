@@ -19,6 +19,6 @@
 
 <script>
 export default {
-  name: "Footer.vue"
+  name: "App-Footer"
 };
 </script>
