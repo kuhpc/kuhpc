@@ -49,7 +49,6 @@
           </div>
       </div>
 
-
       <div class="bg-grey-lightest">
       <div class="container mx-auto px-4 pt-16 pb-12">
         <h4 class="text-center text-4xl mb-12">Applications</h4>
@@ -57,7 +56,7 @@
           <div class="w-full md:w-1/3 sm:w-1/2 px-4 mb-12">
             <div class="mb-2">
               <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	 viewBox="0 0 512 512" xml:space="preserve">
 <path style="fill:#4D4D4D;" d="M104.988,82.328H405.02c13.766,0,24.925,11.159,24.925,24.925v300.032
 	c0,13.765-11.159,24.925-24.925,24.925H104.988c-13.765,0-24.925-11.159-24.925-24.925V107.253
 	C80.063,93.488,91.222,82.328,104.988,82.328z"/>
