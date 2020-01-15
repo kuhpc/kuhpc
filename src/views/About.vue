@@ -20,10 +20,7 @@
     </div>
 
       <section class="text-left mx-auto mx-12">
-        <p class="my-8">We would also like to thanks for following students for Kathmandu University for their contributions:</p>
-        <ul v-for="student in students" :key="student.name" >
-          <li>{{ student.name}}</li>
-        </ul>
+        <p class="my-8">We would like to thank every volunteer</p>
       </section>
     </div>
   </div>
@@ -36,43 +33,14 @@ export default {
       {
         name: "Dr. Rajendra Adhikari",
         imageUrl: "http://placekitten.com/200/300",
-        description: "Teaching At Department of Physics, KU"
-      },
-      {
-        name: "Dr. Lorem Ipsum",
-        imageUrl: "http://placekitten.com/200/300",
-        description: "Department of Physics, KU"
+        description: "Kathmandu University"
       },
       {
         name: "Dr Hari Parsad",
         imageUrl: "http://placekitten.com/200/300",
-        description: "Depart of Physics, KU"
+        description: "Kathmandu University"
       }
     ],
-
-    students: [
-      {
-        name: "Shubham Joshi"
-      },
-      {
-        name: "Prashant Subedi"
-      },
-      {
-        name: "Sambad Bidari"
-      },
-      {
-        name: "Bibushan Baral"
-      },
-      {
-        name: "Bishal Adhikari"
-      },
-      {
-        name: "Kushal Bhatta"
-      },
-      {
-        name: "Deepak Shrestha"
-      }
-    ]
   })
 };
 </script>
