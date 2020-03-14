@@ -34,6 +34,12 @@ export default new Router({
       name: "software",
       component: () =>
         import(/* webpackChunkName: "funding" */ "@/views/Software.vue")
+    },
+    {
+      path: "/resources",
+      name: "resources",
+      component: () =>
+        import(/* webpackChunkName: "funding" */ "@/views/Resources.vue")
     }
   ]
 });
